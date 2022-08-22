@@ -1,0 +1,8 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+SignUpExpo,navigate to singup page,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[2]/span[2]/a",click,,10000
+SignUpExpo,Enter the name ,//input[@name='name'],click,name,
+SignUpExpo,enter the email,//input[@name='email'],input,email,
+SignUpExpo,enter the password,//input[@name='password'],input,password,
+SignUpExpo,click on checkbox,//input[@type='checkbox'],click,,
+SignUpExpo,Click on Register button,//button[@type='submit'],click,,
+SignUpExpo,Navigate to signup link,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[2]/span[2]",click,,20000

@@ -1,0 +1,9 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+ExpoContainerAddNew,click on options,,clickElement,,
+ExpoContainerAddNew,select containers,,clickElement,,
+ExpoContainerSearch,click search box,,clickElement,,
+ExpoContainerSearch,Add Name,,click,Name,
+ExpoContainerSearch,Add Width,,click,Width,
+ExpoContainerSearch,Add Length,,click,Length,
+ExpoContainerSearch,Add Height,,click,Height,
+ExpoContainerSearch,Add Max Weight,,click,MaxWeight,

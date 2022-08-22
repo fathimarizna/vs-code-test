@@ -1,0 +1,10 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+ExpoPalletSearch,click on options,,clickElement,,
+ExpoPalletSearch,select containers,,clickElement,,
+ExpoPalletSearch,click search box,,clickElement,search,
+ExpoPalletSearch,Add Name,,click,Name,
+ExpoPalletSearch,Add Width,,click,Width,
+ExpoPalletSearch,Add Length,,click,Length,
+ExpoPalletSearch,Add PalletHeight,,click,PalletHeight,
+ExpoPalletSearch,Add PalletWeight,,click,PalletWeight,
+ExpoPalletSearch,Add Max Weight,,click,MaxWeight,

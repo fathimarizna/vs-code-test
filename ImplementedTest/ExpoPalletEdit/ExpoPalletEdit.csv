@@ -1,0 +1,11 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+ExpoPalletEdit,click on options,,clickElement,,
+ExpoPalletEdit,select containers,,clickElement,,
+ExpoPalletEdit,click edit button,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/tbody/tr[1]/td[7]/button",click,,
+ExpoPalletEdit,Edit Name,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[1]/div/span[1]",click,Name,
+ExpoPalletEdit,Edit Width,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[2]/div/span[1]",click,Width,
+ExpoPalletEdit,Edit Length,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[3]/div/span[1]",click,Length,
+ExpoPalletEdit,Edit PalletHeight,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[4]/div/span[1]",click,PalletHeight,
+ExpoPalletEdit,Edit Palletweight,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[5]/div/span[1]",click,PalletWeight,
+ExpoPalletEdit,Edit Max Weight,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[6]/div/span[1]]",click,MaxWeight,
+ExpoPalletEdit,click submit,,click,,

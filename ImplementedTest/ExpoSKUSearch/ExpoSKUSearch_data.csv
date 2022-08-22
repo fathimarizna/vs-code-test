@@ -1,0 +1,10 @@
+Test Case ID,Enabled,search,Name,Width,Length,Height,Weight
+ExpoSKUSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",SKU_1_315_220_345,315,345,220,10650
+ExpoSKUSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",SKU_2_155_180_470,155,470,180,10050
+ExpoSKUSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",SKU_3_145_95_215,145,215,95,2223
+ExpoSKUSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",SKU_4_315_180_470,315,470,180,20400
+ExpoSKUSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",SKU_5_280_185_280,280,280,185,10050
+ExpoSKUSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",SKU_6_155_180_470,155,470,180,10050
+ExpoSKUSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",SKU_7_220_145_320,220,320,145,2070
+ExpoSKUSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",SKU_8_356_305_381,356,381,305,2550
+ExpoSKUSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",SKU_9_356_305_381,356,381,305,3500

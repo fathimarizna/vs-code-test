@@ -1,0 +1,10 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+ExpoPallateAddNew,click on options,,clickElement,,
+ExpoPallateAddNew,select pallates,,clickElement,,
+ExpoPallateAddNew,click add button,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[1]/button",click,,
+ExpoPallateAddNew,Add Name,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[1]/div/span[1]",click,Name,
+ExpoPallateAddNew,Add Width,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[2]/div/span[1]",click,Width,
+ExpoPallateAddNew,Add Length,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[3]/div/span[1]",click,Length,
+ExpoPallateAddNew,Add Height,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[4]/div/span[1]",click,Height,
+ExpoPallateAddNew,Add  Weight,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/thead/tr/th[5]/div/span[1]",click,Weight,
+ExpoPallateAddNew,click submit,,click,,

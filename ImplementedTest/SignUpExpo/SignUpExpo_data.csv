@@ -1,0 +1,22 @@
+Test Case ID,Description,Enabled,name,email,password
+SignUpExpo,Empty fields,0,,,
+SignUpExpo,Enter Invalid email and valid password and empty name,0,,ramesh@gmail,
+SignUpExpo,Enter valid formatted  number as name & email and valid password,0,123,suresh@gmail.com,suresh
+SignUpExpo,Enter valid formatted  name & email and Invalid password,0,kasun,kasun@gmail.com,s
+SignUpExpo,"Enter Incorrect email, name and empty password",0,,damith@gmail.com,suresh123
+SignUpExpo,"Enter valid formatted name, email and password",1,suresh,suresh@gmail.com,suresh
+SignUpExpo,"Enter name with symbol charecters, password and empty email",0,,,
+SignUpExpo,Enter Invalid  email (Suresh What do you mean?),0,,,
+,,,,,
+,,,,,
+,,,,,`
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

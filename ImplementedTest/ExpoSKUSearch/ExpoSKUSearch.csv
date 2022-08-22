@@ -1,0 +1,9 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+ExpoSKUSearch,click on options,,clickElement,,
+ExpoSKUSearch,select sku,,clickElement,,
+ExpoSKUSearch,click search box,,clickElement,,
+ExpoSKUSearch,Add Name,,click,Name,
+ExpoSKUSearch,Add Width,,click,Width,
+ExpoSKUSearch,Add Length,,click,Length,
+ExpoSKUSearch,Add Height,,click,Height,
+ExpoSKUSearch,Add  Weight,,click,Weight,

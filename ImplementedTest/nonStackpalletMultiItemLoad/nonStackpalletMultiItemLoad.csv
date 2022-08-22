@@ -1,0 +1,14 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+nonStackpalletMultiItemLoad,click on dropdown,"//input[@type=""search""]",stpClick,,2000
+nonStackpalletMultiItemLoad,select load type,,clickElement,selectLoadType,2000
+nonStackpalletMultiItemLoad,Click on select container,"//*[@id=""__next""]/div/div/div/div[1]/div/div/div[1]/div[1]/div/div[2]/div/div",stpClick,,2000
+nonStackpalletMultiItemLoad,Click on 20ft Standard Container,,clickElement,selectContainer,2000
+nonStackpalletMultiItemLoad,Click on Palate Type,,clickElement,clickPallet,2000
+nonStackpalletMultiItemLoad,Select Palate Type,,clickElement,selectPalate,2000
+nonStackpalletMultiItemLoad,Click on Add Multi SKU Pallet,,clickElement,clickAddSKU,2000
+nonStackpalletMultiItemLoad,Click on SKU Details,,clickElement,clickRadio,3000
+nonStackpalletMultiItemLoad,Click on select SKU,,clickElement,clickSKU,2000
+nonStackpalletMultiItemLoad,Selecting SKU,,clickElement,sku,10000
+nonStackpalletMultiItemLoad,click P,,clickElement,clickL,3000
+nonStackpalletMultiItemLoad,Decrease The Item Quantity,,clickElement,selectL,10000
+nonStackpalletMultiItemLoad,Click on add button,//button[@class='ant-btn ant-btn-primary'],click,,10000

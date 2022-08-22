@@ -1,0 +1,4 @@
+Test Case ID,Description,Object,Action,DataColumn,WaitAfter
+ExpoContainerDelete,click on options,,clickElement,,
+ExpoContainerDelete,select containers,,clickElement,,
+ExpoContainerDelete,click delete button,"//*[@id=""__next""]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/table/tbody/tr[1]/td[7]/span",clickElement,,

@@ -1,0 +1,5 @@
+Test Case ID,Enabled,search,Name,Width,Length,PalletHeight,PalletWeight,MaxWeight
+ExpoPalletSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",Euro pallet,800,1200,100,1000,1000000
+ExpoPalletSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",Industrial pallet 1,1100,1000,100,1000,1000000
+ExpoPalletSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",Industrial pallet 2,1100,1100,100,1000,1000000
+ExpoPalletSearch,1,"//*[@id=""__next""]/div/div/div/div[1]/div/div[2]/div[5]/span/input",Plastic pallet,1200,1000,100,1000,1000000

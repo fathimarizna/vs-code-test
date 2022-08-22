@@ -1,0 +1,2 @@
+Test Case ID,Enabled,sku1,itemQuantity1,sku2,itemQuantity2,sku3,itemQuantity3,sku4,itemQuantity4,sku5,itemQuantity5
+MultiSkuFloorLoading,1,/html/body/div[6]/div/div/div/div[2]/div[1]/div/div/div[2]/div,600,/html/body/div[6]/div/div/div/div[2]/div[1]/div/div/div[2]/div,500,/html/body/div[6]/div/div/div/div[2]/div[1]/div/div/div[3]/div,2500,/html/body/div[6]/div/div/div/div[2]/div[1]/div/div/div[4]/div,150,/html/body/div[6]/div/div/div/div[2]/div[1]/div/div/div[5]/div,288
